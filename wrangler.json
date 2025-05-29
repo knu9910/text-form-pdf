@@ -1,8 +1,0 @@
-{
-  "name": "text-form-pdf",
-  "compatibility_date": "2025-05-29",
-  "main": "dist/index.js",
-  "assets": {
-    "directory": "./dist"
-  }
-}
