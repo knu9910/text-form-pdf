@@ -1,6 +1,0 @@
-{
-  "name": "text-form-pdf",
-  "main": "dist/index.js",
-  "compatibility_date": "2025-05-29",
-  "compatibility_flags": ["nodejs_compat"]
-}
