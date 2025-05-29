@@ -1,4 +1,0 @@
-name = "text-form-pdf"
-main = "dist/index.js"
-compatibility_date = "2025-05-29"
-node_compat = true
