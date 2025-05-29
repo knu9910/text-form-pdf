@@ -5,9 +5,15 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "wrangler dev",
+    "deploy": "wrangler publish"
   },
-  "keywords": [],
+  "keywords": [
+    "cloudflare",
+    "pdf",
+    "text",
+    "extract"
+  ],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.5.2",
@@ -18,6 +24,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^4.2.67"
   }
 }
